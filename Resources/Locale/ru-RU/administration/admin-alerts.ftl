@@ -1,0 +1,1 @@
+﻿admin-alert-shared-connection = {$player} использует общее подключение с {$otherCount} другим(и) игроком(ами): {$otherList}

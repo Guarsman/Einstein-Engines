@@ -1,0 +1,1 @@
+objective-condition-kill-person-title = Убить или высадить в открытом космосе {$targetName}, {CAPITALIZE($job)}

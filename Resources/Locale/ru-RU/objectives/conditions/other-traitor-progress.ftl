@@ -1,0 +1,1 @@
+objective-condition-other-traitor-progress-title = Обеспечьте выполнение сообщником {$targetName}, {CAPITALIZE($job)} как минимум половины его заданий

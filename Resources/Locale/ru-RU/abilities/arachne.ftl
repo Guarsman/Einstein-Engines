@@ -1,0 +1,16 @@
+action-name-spin-web = Сплести Паутину
+action-desc-spin-web = Используйте свои прядильные железы, чтобы сплести паутину на текущей плитке. Увеличивает голод и жажду.
+action-name-spin-web-space = В космосе нельзя сплести паутину!
+action-name-spin-web-blocked = Здесь нет места для паутины.
+spin-web-action-hungry = Вы слишком голодны, чтобы сплести паутину!
+spin-web-action-thirsty = Вы слишком испытываете жажду, чтобы сплести паутину!
+spin-web-start-second-person = Вы начинаете плести паутину.
+spin-web-start-third-person = {CAPITALIZE(THE($spider))} начинает плести паутину!
+cocoon-start-second-person = Вы начинаете окукливать {THE($target)}.
+cocoon-start-third-person = {CAPITALIZE(THE($spider))} начинает окукливать {THE($target)}.
+uncocoon-start-second-person = Вы начинаете освобождать {THE($target)}.
+uncocoon-start-third-person = {CAPITALIZE(THE($spider))} начинает освобождать {THE($target)}.
+spun-web-second-person = Вы сплетаете паутину.
+spun-web-third-person = {CAPITALIZE(THE($spider))} сплетает паутину!
+cocoon = Окукливание
+uncocoon = Освобождение

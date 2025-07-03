@@ -1,0 +1,1 @@
+changeable-gender-component-gender-set = Изменены местоимения на "{$pronouns}"

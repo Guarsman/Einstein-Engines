@@ -1,0 +1,1 @@
+﻿examine-pinpointer-linked = Отслеживает цель: {$target}

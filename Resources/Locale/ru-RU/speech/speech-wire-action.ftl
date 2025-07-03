@@ -1,0 +1,1 @@
+wire-speech-pulse = {CAPITALIZE(THE($name))} издаёт жужжащий звук

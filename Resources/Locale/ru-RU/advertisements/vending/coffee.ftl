@@ -1,0 +1,19 @@
+﻿advertisement-coffee-1 = Возьмите напиток!
+advertisement-coffee-2 = Пейте на здоровье!
+advertisement-coffee-3 = Это полезно для вас!
+advertisement-coffee-4 = Хотите чашечку горячего кофе?
+advertisement-coffee-5 = Я бы убил за чашку кофе!
+advertisement-coffee-6 = Лучшие зерна в галактике.
+advertisement-coffee-7 = Только самый лучший напиток для вас.
+advertisement-coffee-8 = Мммм... Нет ничего лучше кофе.
+advertisement-coffee-9 = Я люблю кофе, а вы?
+advertisement-coffee-10 = Кофе помогает работать!
+advertisement-coffee-11 = Попробуйте чай.
+advertisement-coffee-12 = Надеемся, вам понравится лучшее!
+advertisement-coffee-13 = Попробуйте наш новый шоколад!
+advertisement-coffee-14 = Горячие напитки! Получите свой прямо сейчас!
+
+thankyou-coffee-1 = Наслаждайтесь вашим напитком!
+thankyou-coffee-2 = Берите, пока горячий!
+thankyou-coffee-3 = Напиток готов.
+thankyou-coffee-4 = Напиток выдан.

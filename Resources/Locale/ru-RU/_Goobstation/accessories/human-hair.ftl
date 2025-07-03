@@ -1,0 +1,35 @@
+## Варианты причесок для людей
+
+marking-HumanHairBraidedExtension = Косички с накладками
+marking-HumanHairCometTail = Хвост кометы
+marking-HumanHairFantasyHair = Фэнтезийные волосы
+marking-HumanHairFlatTwistsUpdo = Плетеная укладка
+marking-HumanHairFloorlengthBraid = Коса до пола
+marking-HumanHairFloorlengthWavy = Волнистые до пола
+marking-HumanHairFrizzyBraid = Взъерошенная коса
+marking-HumanHairFrontBraidsLong = Длинные фронтальные косы
+marking-HumanHairFrontBraidsMedium = Средние фронтальные косы
+marking-HumanHairFrontBraidsShort = Короткие фронтальные косы
+marking-HumanHairHairnet = Сетка для волос
+marking-HumanHairJellyfish = Медуза
+marking-HumanHairKazuyaMishima = Кадзуя Мисима
+marking-HumanHairLongBraids = Длинные косы
+marking-HumanHairLongCurvy = Длинные вьющиеся
+marking-HumanHairLongPompadour = Длинный помпадур
+marking-HumanHairMediumCurls = Средние кудри
+marking-HumanHairMullet = Каре
+marking-HumanHairPelvicLengthBraid = Коса до таза
+marking-HumanHairPlateau = Плато
+marking-HumanHairQueenBee = Королева пчел
+marking-HumanHairSaggedMohawk = Поникший могавк
+marking-HumanHairSharpMohawk = Острый могавк
+marking-HumanHairShortAndPoofy = Короткие и пушистые
+marking-HumanHairShortCurls = Короткие кудри
+marking-HumanHairShoulderLengthBraid = Коса до плеч
+marking-HumanHairSideSpike = Боковой шип
+marking-HumanHairSpaceLoops = Космические петли
+marking-HumanHairStar = Звезда
+marking-HumanHairStarFro = Звездное афро
+marking-HumanHairStyledCurls = Уложенные кудри
+marking-HumanHairUnkemptScientist = Растрепанный ученый
+marking-HumanHairWispy = Пряди

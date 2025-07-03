@@ -1,0 +1,2 @@
+firelock-component-is-holding-pressure-message = В лицо ударила струя воздуха... Возможно, стоит передумать.
+firelock-component-is-holding-fire-message = В лицо ударила струя горячего воздуха... Возможно, стоит передумать.

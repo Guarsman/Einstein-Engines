@@ -1,0 +1,1 @@
+node-scan-popup = ID Узла: {$id}

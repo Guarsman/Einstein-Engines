@@ -1,0 +1,1 @@
+clothing-modify-stun-time-examine = Время оглушения и сбивания с ног уменьшено на [color=yellow]{$mod}%[/color]

@@ -1,0 +1,5 @@
+loadout-name-LoadoutHandsColorWhite = перчатки (окрашиваемые)
+loadout-name-LoadoutHandsGlovesFingerlessWhite = перчатки без пальцев (окрашиваемые)
+loadout-name-LoadoutHandsGlovesEvening = вечерние перчатки (окрашиваемые)
+loadout-name-LoadoutHandsGlovesEnviroglovesColor = защитные перчатки (окрашиваемые)
+loadout-name-LoadoutHandsGlovesEnviroglovesEvening = вечерние защитные перчатки (окрашиваемые)

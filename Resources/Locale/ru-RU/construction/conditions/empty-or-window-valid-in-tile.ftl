@@ -1,0 +1,1 @@
+construction-guide-condition-empty-or-window-valid-in-tile = Необходимо разместить на подходящей поверхности.

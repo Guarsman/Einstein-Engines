@@ -1,0 +1,1 @@
+gas-vent-pump-uvlo = Активирована [color=red]блокировка по низкому давлению[/color].

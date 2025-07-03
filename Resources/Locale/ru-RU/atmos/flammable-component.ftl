@@ -1,0 +1,1 @@
+flammable-component-resist-message = Вы падаете на пол и катаетесь, чтобы сбить пламя!

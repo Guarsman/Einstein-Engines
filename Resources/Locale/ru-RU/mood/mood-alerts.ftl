@@ -1,22 +1,32 @@
-﻿alerts-mood-insane-name = Безумие
-alerts-mood-insane-desc = В моей душе тлеют мрак и безнадежность, мир обречен на абсолютное зло.
-alerts-mood-horrible-name = Печально
-alerts-mood-horrible-desc = Я борюсь с болями и страхами, моя судьба - череда мучений и страданий.
-alerts-mood-terrible-name = Очень плохо
-alerts-mood-terrible-desc = Моя жизнь иссякла, как кровь из раны, и вокруг лишь мрак и отчаяние.
-alerts-mood-bad-name = Плохо
-alerts-mood-bad-desc = Силы покидают меня, и каждый день становится тяжелым испытанием.
-alerts-mood-meh-name = Нехорошо
-alerts-mood-meh-desc = Мир полон угроз и боли, и мои надежды медленно умирают.
-alerts-mood-neutral-name = Нормально
-alerts-mood-neutral-desc = Я продолжаю свой путь, несмотря на угрозы и лишения, ища хоть малейший свет во мраке.
-alerts-mood-good-name = Неплохо
-alerts-mood-good-desc = В этом мире полном страданий, я обретаю небольшое облегчение и надежду.
-alerts-mood-great-name = Хорошо
-alerts-mood-great-desc = Моя сила восстанавливается, и мир кажется меньшим злом и болью.
-alerts-mood-exceptional-name = Очень хорошо
-alerts-mood-exceptional-desc = Я ощущаю в себе силы и надежду на лучшие дни, несмотря на угрозы, что таятся вокруг.
-alerts-mood-perfect-name = Великолепно
-alerts-mood-perfect-desc = Моя душа полна света и силы, и я готов сразиться с тьмой в этом жестоком мире.
 alerts-mood-dead-name = Мёртв
 alerts-mood-dead-desc = Вечная пустота окутала меня, и мир больше не имеет власти над моей душой.
+
+alerts-mood-insane-name = Безумие
+alerts-mood-insane-desc = Тьма и безысходность тлеют в моей душе, мир обречён на абсолютное зло.
+
+alerts-mood-horrible-name = Ужасно
+alerts-mood-horrible-desc = Я борюсь с болью и страхами, моя судьба - череда мучений и страданий.
+
+alerts-mood-terrible-name = Ужасающе
+alerts-mood-terrible-desc = Моя жизнь иссохла, как кровь из раны, и вокруг лишь тьма и отчаяние.
+
+alerts-mood-bad-name = Плохо
+alerts-mood-bad-desc = Мои силы покидают меня, и каждый день становится тяжёлым испытанием.
+
+alerts-mood-meh-name = Посредственно
+alerts-mood-meh-desc = Мир полон опасностей и боли, а мои надежды медленно угасают.
+
+alerts-mood-neutral-name = Нейтрально
+alerts-mood-neutral-desc = Я продолжаю свой путь, несмотря на угрозы и тяготы, выискивая малейший свет во тьме.
+
+alerts-mood-good-name = Хорошо
+alerts-mood-good-desc = В этом мире страданий я нахожу небольшое облегчение и надежду.
+
+alerts-mood-great-name = Отлично
+alerts-mood-great-desc = Мои силы восстановились, и мир кажется меньшим злом и болью.
+
+alerts-mood-exceptional-name = Исключительно
+alerts-mood-exceptional-desc = Сила и надежда наполняют меня, несмотря на угрозы, что подстерегают вокруг.
+
+alerts-mood-perfect-name = Идеально
+alerts-mood-perfect-desc = Моя душа полна света и силы, и я готов сражаться с тьмой в этом жестоком мире.

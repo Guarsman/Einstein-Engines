@@ -1,0 +1,11 @@
+credits-window-title = Благодарности
+credits-window-patrons-tab = Патроны
+credits-window-ss14contributorslist-tab = Участники проекта
+credits-window-licenses-tab = Открытые лицензии
+credits-window-become-patron-button = Стать патроном
+credits-window-contributor-encouragement-label = Хотите попасть в этот список?
+credits-window-contribute-button = Принять участие!
+credits-window-contributors-section-title = Участники проекта Space Station 14
+credits-window-codebases-section-title = Исходные коды Space Station 13
+credits-window-original-remake-team-section-title = Оригинальная команда ремейка Space Station 13
+credits-window-special-thanks-section-title = Особая благодарность

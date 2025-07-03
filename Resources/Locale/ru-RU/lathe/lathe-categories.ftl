@@ -1,0 +1,9 @@
+lathe-category-ammo = Боеприпасы
+lathe-category-circuitry = Микросхемы
+lathe-category-books = Книги
+lathe-category-lights = Освещение
+lathe-category-parts = Детали
+lathe-category-robotics = Робототехника
+lathe-category-tacsuits = Тактическая экипировка
+lathe-category-tools = Инструменты
+lathe-category-weapons = Оружие

@@ -1,0 +1,6 @@
+loadout-name-LoadoutBeltGeneric = ремень (окрашиваемый)
+loadout-name-LoadoutBeltGenericThin = тонкий ремень (окрашиваемый)
+loadout-name-LoadoutBeltGenericThick = толстый ремень (окрашиваемый)
+loadout-name-LoadoutBeltWaist = поясной ремень (окрашиваемый)
+loadout-name-LoadoutBeltWaistThin = тонкий поясной ремень (окрашиваемый)
+loadout-name-LoadoutBeltWaistbagColor = поясная сумка (окрашиваемая)

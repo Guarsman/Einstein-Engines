@@ -1,0 +1,1 @@
+restricted-melee-component-attack-fail-too-large = Вам не удаётся как следует ухватиться за {CAPITALIZE(THE($item))}, похоже, это было создано для более крупных рук.

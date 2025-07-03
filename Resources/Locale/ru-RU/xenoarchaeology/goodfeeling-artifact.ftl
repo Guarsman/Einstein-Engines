@@ -1,0 +1,21 @@
+goodfeeling-artifact-1 = Вы чувствуйте себя хорошо.
+goodfeeling-artifact-2 = Всё идёт хорошо
+goodfeeling-artifact-3 = У вас хорошее предчувствие
+goodfeeling-artifact-4 = Ваши инстинкты говорят что всё налаживается.
+goodfeeling-artifact-5 = В воздухе витает хорошая атмосфера.
+goodfeeling-artifact-6 = Что-то попахивает ... приятно.
+goodfeeling-artifact-7 = Кончики ваших пальцев приятно покалывает.
+goodfeeling-artifact-8 = У вас хорошее предчувствие по поводу этого.
+goodfeeling-artifact-9 = Вы счастливы.
+goodfeeling-artifact-10 = Вы боритесь с желанием улыбнуться.
+goodfeeling-artifact-11 = Ваша кожа головы покалывает.
+goodfeeling-artifact-12 = Все цвета очень яркие.
+goodfeeling-artifact-13 = Всё немножко светлеет.
+goodfeeling-artifact-14 = Все проблемы мира, кажется, исчезают.
+
+goodfeeling-artifact-drastic-1 = Вы хотите обнимать всех кого видите!
+goodfeeling-artifact-drastic-2 = Всё идёт хорошо!
+goodfeeling-artifact-drastic-3 = Вы чувствуйте эйфорию.
+goodfeeling-artifact-drastic-4 = Вы чувствуете головокружение.
+goodfeeling-artifact-drastic-5 = Вы вдруг так счастливы, что вам почти хочется танцевать и петь.
+goodfeeling-artifact-drastic-6 = Вы чувствуйте что мир вокруг пытается вам помочь.

@@ -1,0 +1,15 @@
+buzzochloricbees-effect-oh-god-bees = Вас атакует рой из множества пчёл.
+buzzochloricbees-effect-its-the-bees = Это пчёлы, о боже, пчёлы!
+buzzochloricbees-effect-why-am-i-covered-in-bees = Вас покрыли разъярённые пчёлы.
+buzzochloricbees-effect-one-with-the-bees = Вы стали единым целым с пчёлами.
+buzzochloricbees-effect-squeaky-clean = Вы чувствуете себя чистым, будто пчёлы пытаются вас оттереть.
+buzzochloricbees-effect-histamine-bee-allergy = Похоже, у вас сильная аллергия на пчёл.
+buzzochloricbees-effect-histamine-swells = Вы раздуваетесь, как шар, из-за пчёл.
+buzzochloricbees-effect-histamine-numb-to-the-bees = Вы онемели от пчёл.
+buzzochloricbees-effect-histamine-cannot-be-one-with-the-bees = Вы не стали единым целым с пчёлами.
+buzzochloricbees-effect-licoxide-electrifying = Пчёлы бьют током.
+buzzochloricbees-effect-licoxide-shocked-by-bee-facts = Вы в шоке от этих пяти фактов о пчёлах.
+buzzochloricbees-effect-licoxide-buzzed = Вы чувствуете лёгкое опьянение (и жужжание).
+buzzochloricbees-effect-licoxide-buzzes = Вы жужжите вместе с пчёлами.
+buzzochloricbees-effect-fiber-hairy = Вы чувствуете себя пушистым, как пчела.
+buzzochloricbees-effect-fiber-soft = Вы чувствуете невероятно мягких пчёл.

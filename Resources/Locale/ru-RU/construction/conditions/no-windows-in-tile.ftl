@@ -1,0 +1,1 @@
+construction-step-condition-no-windows-in-tile = На этой клетке не должно быть окон.

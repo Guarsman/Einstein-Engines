@@ -1,0 +1,10 @@
+department-Cargo = Снабжение
+department-Civilian = Сервис
+department-Command = Командование
+department-Engineering = Инженерный
+department-Medical = Медицинский
+department-Security = Служба безопасности
+department-Science = Научный
+department-Silicon = Синтетики
+department-Specific = Уникальные должности
+department-Dignitary = Доверенные лица

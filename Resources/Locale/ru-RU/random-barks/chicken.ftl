@@ -1,0 +1,9 @@
+bark-chicken-1 = Куууд
+bark-chicken-2 = Куд
+bark-chicken-3 = Куд Куд Куууд
+bark-chicken-4 = Еда
+bark-chicken-5 = Где трава?
+bark-chicken-6 = Надо поесть
+bark-chicken-7 = Яйцо
+bark-chicken-8 = Куд куд
+bark-chicken-count = 8

@@ -1,22 +1,21 @@
-ghost-respawn-minutes-left = До возможности вернуться в раунд { $time } 
-    { $time ->
-        [one] минута
-        [few] минуты
-       *[other] минут
-    }
-ghost-respawn-seconds-left = До возможности вернуться в раунд { $time } 
-    { $time ->
-        [one] секунда
-        [few] секунды
-       *[other] секунд
-    }
-ghost-respawn-max-players = Функция недоступна, игроков на сервере должно быть меньше { $players }.
-ghost-respawn-window-title = Правила возвращения в раунд
-ghost-respawn-window-rules-footer = Пользуясь это функцией, вы [color=#ff7700]обязуетесь[/color] [color=#ff0000]не переносить[/color] знания своего прошлого персонажа в нового. За нарушение пункта, указанного здесь, следует [color=#ff0000]бан в размере от 3-ех дней[/color].
-ghost-respawn-same-character = Нельзя заходить в раунд за того же персонажа. Поменяйте его в настройках персонажей.
+ghost-respawn-minutes-left = Пожалуйста, подождите {$time} {$time ->
+    [one] минуту
+    [few] минуты
+   *[other] минут
+} перед повторным возрождением.
+ghost-respawn-seconds-left = Пожалуйста, подождите {$time} {$time ->
+    [one] секунду
+    [few] секунды
+   *[other] секунд
+} перед повторным возрождением.
 
-ghost-respawn-log-character-almost-same = Игрок { $player } { $try ->
-    [true] зашёл
-    *[false] попытался зайти
-} в раунд после возвращения в лобби с похожим именем. Прошлое имя: { $oldName }, текущее: { $newName }.
+ghost-respawn-max-players = Сейчас невозможно возродиться. Необходимо, чтобы в игре было меньше {$players} игроков.
+ghost-respawn-window-title = Правила возрождения
+ghost-respawn-window-rules-footer = Нажимая "Возродиться", вы [color=#ff7700]соглашаетесь[/color] [color=#ff0000]не использовать знания, полученные вашим предыдущим персонажем[/color]. Нарушение этого правила может привести к бану на сервере. Подробнее читайте в правилах сервера.
+ghost-respawn-same-character = Вы не можете возродиться тем же персонажем. Пожалуйста, выберите другого в настройках персонажа.
+
+ghost-respawn-log-character-almost-same = Игрок {$player} { $try ->
+    [true] присоединился
+    *[false] попытался присоединиться
+} к раунду после возрождения с похожим именем. Предыдущее имя: { $oldName }, текущее: { $newName }.
 ghost-respawn-log-return-to-lobby = { $userName } вернулся в лобби.

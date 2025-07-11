@@ -1,0 +1,11 @@
+traitor-death-match-redemption-component-interact-using-main-message = Машина гудит и отображает: {$secondMessage}  
+traitor-death-match-redemption-component-interact-using-no-mind-message = "ОШИБКА АУТЕНТИФИКАЦИИ (0045)"  
+traitor-death-match-redemption-component-interact-using-no-user-mind-message = "ОШИБКА АУТЕНТИФИКАЦИИ (0052)"  
+traitor-death-match-redemption-component-interact-using-no-pda-message = "ПРЕДОСТАВЛЕННОЕ УСТРОЙСТВО НЕ ЯВЛЯЕТСЯ КПК (0058)"  
+traitor-death-match-redemption-component-interact-using-no-pda-owner-message = "КПК НЕ ИМЕЕТ ВЛАДЕЛЬЦА (0064)"  
+traitor-death-match-redemption-component-interact-using-pda-different-user-message = "КПК ПРИНАДЛЕЖИТ ДРУГОМУ ПОЛЬЗОВАТЕЛЮ (0070)"  
+traitor-death-match-redemption-component-interact-using-no-pda-in-pocket-message = "КПК ПОЛЬЗОВАТЕЛЯ ОТСУТСТВУЕТ В КАРМАНЕ С БЕЙДЖЕМ (0083)"  
+traitor-death-match-redemption-component-interact-using-tampering-detected = "ОБНАРУЖЕНО ВМЕШАТЕЛЬСТВО (0101)"  
+traitor-death-match-redemption-component-interact-using-user-no-uplink-account-message = "НА КПК ПОЛЬЗОВАТЕЛЯ ОТСУТСТВУЕТ АПЛИНК-АККАУНТ (0102)"  
+traitor-death-match-redemption-component-interact-using-victim-no-uplink-account-message = "НА КПК ЖЕРТВЫ ОТСУТСТВУЕТ АПЛИНК-АККАУНТ (0108)"  
+traitor-death-match-redemption-component-interact-using-success-message = Машина проигрывает бодрую мелодию и отображает: "УСПЕХ: {$tcAmount} ТК ПЕРЕВЕДЕНО"  

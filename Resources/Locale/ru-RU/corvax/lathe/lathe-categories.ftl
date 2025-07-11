@@ -1,0 +1,10 @@
+lathe-category-reports = Отчёты
+lathe-category-statements = Заявления
+lathe-category-inquiries-and-appeals = Запросы и обращения
+lathe-category-complaints = Жалобы
+lathe-category-permissions = Разрешения
+lathe-category-orders-and-instructions = Приказы и указания
+lathe-category-orders = Приказы
+lathe-category-evidence = Доказательства
+lathe-category-conclusions-and-decisions = Заключения и решения
+lathe-category-error = Ошибка

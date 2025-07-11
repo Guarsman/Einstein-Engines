@@ -1,0 +1,1 @@
+cmd-persistencesave-no-path = filePath не указан, и CCVar {$cvar} не задан. Вручную установите параметр filePath для сохранения карты.

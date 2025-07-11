@@ -1,0 +1,1 @@
+lathe-technology-recipes-update-message = База данных автолата обновлена. Добавлено {$count} новых рецептов.

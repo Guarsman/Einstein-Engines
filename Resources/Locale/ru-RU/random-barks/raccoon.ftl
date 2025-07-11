@@ -1,0 +1,16 @@
+bark-raccoon-1 = Хрум-хрум
+bark-raccoon-2 = Роюсь
+bark-raccoon-3 = Время перекуса
+bark-raccoon-4 = Где еда?
+bark-raccoon-5 = Хочу блестяшку
+bark-raccoon-6 = Ооо... куча мусора
+bark-raccoon-7 = Пиип!
+bark-raccoon-8 = Надо поесть
+bark-raccoon-9 = Сейчас голоден
+bark-raccoon-10 = О, блестяшка
+bark-raccoon-11 = Надо исследовать
+bark-raccoon-12 = Надо найти еду
+bark-raccoon-13 = Вкусняшка
+bark-raccoon-14 = Мне любопытно
+bark-raccoon-15 = Человек назвал меня опоссумом... Я не опоссум
+bark-raccoon-count = 15

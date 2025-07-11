@@ -1,0 +1,17 @@
+cargoproduct-category-name-armory = Оружейная
+cargoproduct-category-name-atmospherics = Атмосферные системы
+cargoproduct-category-name-cargo = Грузовой отдел
+cargoproduct-category-name-circuitboards = Микросхемы
+cargoproduct-category-name-emergency = Аварийное снабжение
+cargoproduct-category-name-engineering = Инженерное снабжение
+cargoproduct-category-name-food = Продукты питания
+cargoproduct-category-name-fun = Развлечения
+cargoproduct-category-name-hardsuits = Тяжелые скафандры
+cargoproduct-category-name-hydroponics = Гидропоника
+cargoproduct-category-name-livestock = Животноводство
+cargoproduct-category-name-materials = Материалы
+cargoproduct-category-name-medical = Медицинское снабжение
+cargoproduct-category-name-science = Научное снабжение
+cargoproduct-category-name-security = Охрана
+cargoproduct-category-name-service = Сервис
+cargoproduct-category-name-shuttle = Шаттлы

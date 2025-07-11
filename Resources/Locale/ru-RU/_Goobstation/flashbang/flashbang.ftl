@@ -1,0 +1,2 @@
+flash-sound-suppression-examine = Эта экипировка подавляет звук светошумовых гранат, уменьшая их эффективную дальность до [color=yellow]{$range}[/color]
+flash-sound-suppression-fully-examine = Эта экипировка [color=yellow]полностью[/color] подавляет звук светошумовых гранат

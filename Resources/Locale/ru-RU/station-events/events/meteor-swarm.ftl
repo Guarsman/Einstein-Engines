@@ -1,0 +1,2 @@
+﻿station-event-meteor-swarm-announcement = Метеоритный рой направляется к станции. Приготовьтесь к удару.
+station-event-meteor-swarm-complete-announcement = Метеоритный рой миновал станцию. Возвращайтесь на рабочие места.

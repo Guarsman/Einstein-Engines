@@ -1,0 +1,1 @@
+construction-step-condition-wallmount = Необходимо установить на стену.

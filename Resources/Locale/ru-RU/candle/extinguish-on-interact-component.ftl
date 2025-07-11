@@ -1,0 +1,1 @@
+candle-extinguish-failed = Пламя дрожит, но не гаснет

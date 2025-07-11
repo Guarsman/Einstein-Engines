@@ -1,0 +1,1 @@
+construction-insert-material-entity = Далее добавьте [color=yellow]{$amount}×[/color] [color=cyan]{$materialName}[/color].

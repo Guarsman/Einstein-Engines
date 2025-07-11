@@ -1,0 +1,11 @@
+shuttle-timer-eta = ВП (Время прибытия)
+shuttle-timer-etd = ВО (Время отбытия)
+shuttle-timer-shuttle-time = ВремяШаттла
+shuttle-timer-source-time = ВремяИст
+shuttle-timer-dest-time = ВремяНазнач
+shuttle-timer-shuttle-map = КартаШаттла
+shuttle-timer-source-map = КартаИст
+shuttle-timer-dest-map = КартаНазнач
+shuttle-timer-docked = Пристыкован
+shuttle-timer-bye = ПОКА!
+shuttle-timer-kill = УНИЧТОЖИТЬ

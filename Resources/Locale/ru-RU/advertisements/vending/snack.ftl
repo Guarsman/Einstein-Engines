@@ -1,0 +1,22 @@
+﻿advertisement-snack-1 = Попробуйте наши новые нуга-батончики!  
+advertisement-snack-2 = Вдвое больше калорий за полцены!  
+advertisement-snack-3 = Самые полезные!  
+advertisement-snack-4 = Шоколадные батончики — победители конкурсов!  
+advertisement-snack-5 = М-м-м! Так вкусно!  
+advertisement-snack-6 = О боже, какой сочный!  
+advertisement-snack-7 = Перекусите.  
+advertisement-snack-8 = Перекусы полезны для вас!  
+advertisement-snack-9 = Возьмите ещё Getmore!  
+advertisement-snack-10 = Лучшие закуски прямиком с Марса.  
+advertisement-snack-11 = Мы обожаем шоколад!  
+advertisement-snack-12 = Попробуйте наш новый вяленый продукт!  
+advertisement-snack-13 = Наш подозрительный вяленый продукт точно не отправит вас в открытый космос!  
+advertisement-snack-14 = Подходит для большинства видов!  
+advertisement-snack-15 = Идеально, когда вы на грани голодной смерти!  
+
+thankyou-snack-1 = Приятного аппетита!  
+thankyou-snack-2 = Наслаждайтесь продуктом!  
+thankyou-snack-3 = Хорошего перекуса.  
+thankyou-snack-4 = Вкуснотища!  
+thankyou-snack-5 = Ням-ням!  
+thankyou-snack-6 = Спасибо за покупку наших закусок!  

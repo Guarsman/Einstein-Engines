@@ -1,0 +1,1 @@
+loadout-description-LoadoutCargoNeckGoliathCloak = Для величайшего из команды утилизаторов.

@@ -1,0 +1,1 @@
+wieldable-component-requires-fumble = { CAPITALIZE(THE($item))} слишком тяжёлый для использования одной рукой! Вы роняете всё из рук.

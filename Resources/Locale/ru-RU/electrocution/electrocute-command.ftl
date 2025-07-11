@@ -1,0 +1,2 @@
+electrocute-command-description = Направляет электрический разряд на указанный объект. По умолчанию: 10 секунд и 10 урона. Шокирующе!  
+electrocute-command-entity-cannot-be-electrocuted = Этот объект невозможно поразить электричеством!  

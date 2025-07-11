@@ -1,0 +1,1 @@
+objective-condition-teach-person-title = Проучить {$targetName}, {CAPITALIZE($job)}. Вы должны находиться в пределах 30 метров от цели, иначе Синдикат не сможет засчитать задание.

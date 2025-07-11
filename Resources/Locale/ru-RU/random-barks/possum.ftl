@@ -1,0 +1,24 @@
+# Опоссум <3
+bark-possum-1 = Шшш-шшш
+bark-possum-2 = Шшш-шшш-шшш
+bark-possum-3 = Еда
+bark-possum-4 = Голоден
+bark-possum-5 = Ещё еды
+bark-possum-6 = Шшш
+bark-possum-7 = Притвориться мёртвым
+bark-possum-8 = Страшно
+bark-possum-9 = Спрятаться
+bark-possum-10 = Темноту, пожалуйста
+bark-possum-11 = Дом на дереве
+bark-possum-12 = Шшш-шшш-шшш-шшш
+bark-possum-13 = Еды сейчас
+bark-possum-14 = Хочу спать
+bark-possum-15 = Шшш-шшш-шшш
+bark-possum-16 = Ночь - хорошо
+bark-possum-17 = Фрукты, пожалуйста
+bark-possum-18 = Нет свету
+bark-possum-19 = Шшш-шшш-шшш-шшш-шшш
+bark-possum-20 = Безопасная тьма
+bark-possum-21 = Надо спрятаться
+bark-possum-22 = Шшш... Не подходи
+bark-possum-count = 22

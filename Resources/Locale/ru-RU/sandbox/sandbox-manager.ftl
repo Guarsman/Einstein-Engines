@@ -1,0 +1,17 @@
+sandbox-window-title = Панель песочницы
+sandbox-window-ai-overlay-button = Наложение ИИ
+sandbox-window-respawn-button = Возрождение
+sandbox-window-spawn-entities-button = Создание объектов
+sandbox-window-spawn-tiles-button = Создание плиток
+sandbox-window-spawn-decals-button = Создание декалей
+sandbox-window-grant-full-access-button = Полный доступ
+sandbox-window-ghost-button = Призрак
+sandbox-window-toggle-lights-button = Переключить свет
+sandbox-window-toggle-fov-button = Переключить поле зрения
+sandbox-window-toggle-shadows-button = Переключить тени
+sandbox-window-toggle-subfloor-button = Переключить подполье
+sandbox-window-toggle-suicide-button = Самоубийство
+sandbox-window-show-spawns-button = Показать точки спавна
+sandbox-window-show-bb-button = Показать BB
+sandbox-window-show-npc-button = Показать NPC
+sandbox-window-link-machines-button = Связать машины

@@ -1,0 +1,1 @@
+transformable-container-component-glass = стекло с {$reagent}

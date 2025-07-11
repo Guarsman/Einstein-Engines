@@ -1,0 +1,3 @@
+shared-interaction-system-in-range-unobstructed-cannot-reach = Вы не можете туда дотянуться!
+interaction-system-user-interaction-cannot-reach = Вы не можете туда дотянуться!
+interaction-rate-limit-admin-announcement = Игрок { $player } превысил лимит взаимодействий. Возможно использование макросов, авто-кликеров или модифицированного клиента. Хотя это может быть просто спам кнопками или проблемы с сетью.

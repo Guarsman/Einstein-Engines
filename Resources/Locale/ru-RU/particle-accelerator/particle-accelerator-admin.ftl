@@ -1,0 +1,1 @@
+particle-accelerator-admin-power-strength-warning = изменил(а) мощность ускорителя частиц {$machine} на {$powerState} по координатам: {$coordinates}

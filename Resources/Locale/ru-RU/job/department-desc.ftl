@@ -1,0 +1,10 @@
+﻿department-Cargo-description = Выполняйте заказы, зарабатывайте Spessos и снабжайте экипаж полезными материалами.
+department-Civilian-description = Выполняйте мелкие полезные задания, чтобы поддерживать порядок и комфорт на станции.
+department-Command-description = Управляйте экипажем и обеспечивайте его эффективную работу.
+department-Engineering-description = Следите за энергоснабжением и поддерживайте работоспособность станции.
+department-Medical-description = Следите за здоровьем экипажа.
+department-Security-description = Поддерживайте порядок на станции.
+department-Science-description = Исследуйте артефакты и аномалии, чтобы создавать новое оборудование для станции.
+department-Silicon-description = Подчиняйтесь своим законам и служите экипажу.
+department-Specific-description = Профессии, которые есть не на всех станциях.
+department-Dignitary-description = Помогайте главам персонала и капитану, следуйте указаниям.

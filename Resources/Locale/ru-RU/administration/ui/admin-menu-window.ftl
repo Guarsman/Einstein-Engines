@@ -1,0 +1,10 @@
+admin-menu-title = Меню администратора
+admin-menu-admin-tab = Администрирование
+admin-menu-adminbus-tab = Админ-транспорт
+admin-menu-atmos-tab = Атмос
+admin-menu-round-tab = Раунд
+admin-menu-server-tab = Сервер
+admin-menu-panic-bunker-tab = Режим "Панический бункер"
+admin-menu-baby-jail-tab = Детская тюрьма
+admin-menu-players-tab = Игроки
+admin-menu-objects-tab = Объекты

@@ -1,0 +1,8 @@
+marking-ZetaEMWhiskers = Усы (Э.М. Усики)
+marking-ZetaSpiderWhiskers = Усы (Паучьи усики)
+marking-ZetaTwirlable = Усы (Закручивающиеся)
+marking-ZetaVoluminous = Борода (Пышная)
+marking-ZetaWalrus = Усы (Моржовые, Зета)
+marking-ZetaWizardous = Борода (Волшебная)
+marking-ZetaWorkinMan = Борода (Рабочего)
+marking-ZetaOnTheChin = Борода (На подбородке)

@@ -1,0 +1,12 @@
+bark-penguin-1 = Уарк-уарк
+bark-penguin-2 = Рыба!
+bark-penguin-3 = Холодно?
+bark-penguin-4 = Вразвалочку
+bark-penguin-5 = Дайте рыбы
+bark-penguin-6 = Уарк!
+bark-penguin-7 = Скучаю по воде
+bark-penguin-8 = Где рыба?
+bark-penguin-9 = Не умею летать
+bark-penguin-10 = Уанк-уанк-уанк
+bark-penguin-11 = Уанк-уанк-уанк-уанк-уанк-уанк-уанк
+bark-penguin-count = 11

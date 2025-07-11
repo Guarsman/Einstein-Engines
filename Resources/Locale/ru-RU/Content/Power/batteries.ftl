@@ -1,0 +1,1 @@
+battery-electrocute-charge = Батарея внезапно разряжается мощным током!
